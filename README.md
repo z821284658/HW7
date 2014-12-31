@@ -8,5 +8,5 @@ java IKDDhw7 <input_data_filename> <probability>/default(0.1) <Iteration_num>/de
                   2.傳播機率(0 < p < 1)預設為0.1 
                   3.Monte Carlo simulation 迭代次數預設為1000
 
-此程式以作業為目的，針對http://snap.stanford.edu/data/loc-brightkite.html資料設計，
+此程式以作業為目的，針對http://snap.stanford.edu/data/loc-brightkite.html 資料設計，
 故不同待測資料必須像似於上述資料集，即必須擁有10個以上連通子圖，且不能有隔點(點編號必須連續)
