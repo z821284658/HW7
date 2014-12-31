@@ -2,7 +2,7 @@ HW7
 ===
 
 程式執行方法
-java IKDDhw7 <input_data_filename> <probability>/default(0.1) <Iteration_num>/default(1000)
+java IKDDhw7 input_data_filename probability/default(0.1) Iteration_num/default(1000)
 
 共三個參數 分別為 1.待測資料路徑 
                   2.傳播機率(0 < p < 1)預設為0.1 
