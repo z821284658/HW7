@@ -6,7 +6,7 @@ java IKDDhw7 \<input_data_filename\> \<probability\> \<Iteration_num\>
 
 共三個參數 分別為 
 1.待測資料路徑 
-2.傳播機率(0 < p < 1)預設為0.1
+2.傳播機率(0 < p < 1)預設為(0.1)
 3.Monte Carlo simulation 迭代次數預設為1000
 
 此程式以作業為目的，針對http://snap.stanford.edu/data/loc-brightkite.html 資料設計，
